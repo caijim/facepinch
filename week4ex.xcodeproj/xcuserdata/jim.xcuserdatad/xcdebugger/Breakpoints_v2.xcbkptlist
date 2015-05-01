@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "week4ex/CanvasViewController.swift"
+            timestampString = "452138690.376357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CanvasViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week4ex.CanvasViewController.originalTrayCenter.setter : Swift.ImplicitlyUnwrappedOptional&lt;C.CGPoint&gt;"
+                  moduleName = "week4ex"
+                  urlString = "file:///Users/jim/Dropbox/codepath/week4ex/week4ex/CanvasViewController.swift"
+                  timestampString = "452138815.491323"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week4ex.CanvasViewController.originalTrayCenter.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;C.CGPoint&gt;"
+                  moduleName = "week4ex"
+                  urlString = "file:///Users/jim/Dropbox/codepath/week4ex/week4ex/CanvasViewController.swift"
+                  timestampString = "452138815.491435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week4ex.CanvasViewController.init (week4ex.CanvasViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; week4ex.CanvasViewController"
+                  moduleName = "week4ex"
+                  urlString = "file:///Users/jim/Dropbox/codepath/week4ex/week4ex/CanvasViewController.swift"
+                  timestampString = "452138815.491546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week4ex.CanvasViewController.init (week4ex.CanvasViewController.Type)() -&gt; week4ex.CanvasViewController"
+                  moduleName = "week4ex"
+                  urlString = "file:///Users/jim/Dropbox/codepath/week4ex/week4ex/CanvasViewController.swift"
+                  timestampString = "452138815.491657"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week4ex.CanvasViewController.init (week4ex.CanvasViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; week4ex.CanvasViewController"
+                  moduleName = "week4ex"
+                  urlString = "file:///Users/jim/Dropbox/codepath/week4ex/week4ex/CanvasViewController.swift"
+                  timestampString = "452138815.491829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
